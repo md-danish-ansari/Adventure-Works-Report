@@ -1,43 +1,48 @@
 # Adventure-Works-Report
 
-## Project Overview
-The **Adventure-Works-Report** is an interactive Power BI dashboard designed to provide key business insights for Adventure Works. This report analyzes sales, customer demographics, geographical distribution, and product performance, enabling data-driven decision-making.
+## Overview
+The **Adventure-Works-Report** is an interactive Power BI dashboard designed to provide key insights into sales, customer distribution, and product performance for Adventure Works, a fictional retail company. This dashboard consists of four pages, each delivering valuable business insights.
 
-## Features
-- **Multi-page Dashboard:** The report consists of four pages, each focusing on different business insights:
-  1. **Executive Dashboard** – Provides an overall summary of sales performance, revenue trends, and key business metrics.
-  2. **Map** – Visual representation of sales distribution across different regions.
-  3. **Customer Detail** – Insights into customer demographics, purchasing behavior, and segment-wise trends.
-  4. **Product Detail** – Analysis of product-wise sales, profitability, and inventory trends.
-- **Interactive Visualizations:** Users can filter and analyze data dynamically using slicers and drill-down options.
-- **Performance Metrics:** Key performance indicators (KPIs) to track business growth and profitability.
-- **User-friendly Design:** A well-structured and visually appealing layout for better readability and decision-making.
+## Dataset
+- **Dataset Source:** [Adventure Works Dataset](https://www.kaggle.com/datasets/harrimansaragih/adventureworks)
+- **Data Includes:** Sales transactions, customer details, geographical information, and product performance metrics.
 
-## Data Source
-The report is built using the **Adventure Works dataset**, which can be accessed from the following link:
-[Adventure Works Dataset](your-dataset-link-here)
+## Insights
+
+### 1. Executive Dashboard
+This page provides a **high-level summary** of business performance, including:
+- Total Sales, Profit, and Revenue Trends.
+- Key Performance Indicators (KPIs) to track business growth.
+- Monthly and yearly comparisons to assess trends over time.
+- A visual representation of top-performing regions and product categories.
+
+### 2. Map Analysis
+The **geographical distribution of sales and customers** is analyzed here, helping to:
+- Identify regions contributing the most to overall sales.
+- Compare sales performance across different states/countries.
+- Recognize potential market expansion opportunities based on sales density.
+- Spot sales concentration trends using geographical visuals.
+
+### 3. Customer Detail Analysis
+A detailed breakdown of **customer demographics and buying behavior**, including:
+- Customer segmentation based on purchase frequency and spending habits.
+- Insights into customer preferences for specific product categories.
+- New vs. returning customer trends to analyze customer retention rates.
+- Gender and age group analysis to understand target audiences better.
+
+### 4. Product Detail Analysis
+This page focuses on **product performance and sales distribution**, covering:
+- Best-selling and underperforming products based on revenue and quantity sold.
+- Product-wise profit margins to identify high-value items.
+- Sales trends by product categories to optimize inventory and marketing efforts.
+- Product demand patterns to forecast future stock requirements.
 
 ## Tools & Technologies Used
-- **Power BI** – Data visualization and dashboard development.
-- **DAX (Data Analysis Expressions)** – Custom calculations and measures.
-- **Power Query** – Data transformation and preprocessing.
-
-## Dashboard Screenshots
-### Executive Dashboard
-![Executive Dashboard](your-image-link-here)
-
-### Map
-![Map](your-image-link-here)
-
-### Customer Detail
-![Customer Detail](your-image-link-here)
-
-### Product Detail
-![Product Detail](your-image-link-here)
+- **Power BI** for data visualization and interactive dashboard creation.
+- **DAX (Data Analysis Expressions)** for custom calculations and measures.
+- **SQL** for data extraction and transformation.
+- **Excel** for preliminary data cleaning and analysis.
 
 ## Conclusion
-The **Adventure-Works-Report** provides valuable insights into business performance, customer demographics, and sales distribution. It serves as a powerful tool for decision-makers to optimize strategies and drive business growth. Future improvements could include predictive analytics and trend forecasting for deeper insights.
-
----
-Let me know if you need any modifications or additional details!
+The **Adventure-Works-Report** helps businesses gain data-driven insights for strategic decision-making. With interactive visualizations, it empowers stakeholders to monitor sales performance, understand customer demographics, and optimize product strategies effectively.
 
