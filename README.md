@@ -4,7 +4,7 @@
 The **Adventure-Works-Report** is an interactive Power BI dashboard designed to provide key insights into sales, customer distribution, and product performance for Adventure Works, a fictional retail company. This dashboard consists of four pages, each delivering valuable business insights.
 
 ## Dataset
-- **Dataset Source:** [Adventure Works Dataset](https://www.kaggle.com/datasets/harrimansaragih/adventureworks)
+- **Dataset Source:** [Adventure Works Dataset](https://github.com/md-danish-ansari/Adventure-Works-Report/tree/main/Dataset)
 - **Data Includes:** Sales transactions, customer details, geographical information, and product performance metrics.
 
 ## Insights
